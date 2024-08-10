@@ -1,0 +1,9 @@
+diff a/app/Chatting.js b/app/Chatting.js	(rejected hunks)
+@@ -167,6 +167,7 @@
+         setMessages([{ id: '1', sender: 'bot', text: '안녕하세요! 어디가 불편하신가요?', animated: true }]);
+         setDisplayMessages([{ id: '1', sender: 'bot', text: '안녕하세요! 어디가 불편하신가요?', animated: true }]);
+       }}>
++          <Image source={require('../assets/images/reload.png')} style={styles.reload} />
+       </TouchableOpacity>
+       <View style={styles.inputContainer}>
+         <TextInput
