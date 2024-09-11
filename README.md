@@ -31,7 +31,7 @@
 
 ```bash
 # 깃 클론
-git clone https://github.com/Songysp/DoctorChat_frontend
+git clone https://github.com/Heeseon06/DoctorChat_frontend_Project
 
 # 프로젝트 루트 폴더에서 아래 실행(패키지 설치)
 npm install
@@ -43,7 +43,7 @@ npx expo start
 
 ```bash
 # 깃 클론
-git clone https://github.com/Songysp/DoctorChat_BackEnd
+git clone https://github.com/Heeseon06/DoctorChat_backEnd_Project
 
 # 프로젝트 루트 폴더에서 아래 실행(패키지 설치)
 pip install -r requirements.txt
